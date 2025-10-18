@@ -78,7 +78,7 @@ My work involves analyzing emails, malicious samples, crafting **YARA rules**, a
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <a href="https://medium.com/feed/@freecodecamp">
+  <a href=https://medium.com/@ghostdefender">
     <img src="https://img.shields.io/badge/View%20All%20Posts-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
   </a>
 </p>
