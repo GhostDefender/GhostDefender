@@ -19,13 +19,13 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@freecodecamp"  # replace with your Medium handle later
           max_post_count: 5
-          committer_username: "github-actions[bot]"
-          committer_email: "github-actions[bot]@users.noreply.github.com"
+          committer_username: "GhostDefender"
+          committer_email: "mexavierace@gmail.com"
 
       - name: Commit updated README
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GhostDefender"
+          git config --global user.email "mexavierace@gmail.com"
           git add README.md
           git commit -m "📰 Updated blog posts" || echo "No new blog updates"
           git push
