@@ -75,6 +75,7 @@ My work involves analyzing emails, malicious samples, crafting **YARA rules**, a
 > Automatically updated with my latest posts ✍️  
 > [View all on Medium](https://medium.com/@ghostdefender)
 
+> ⚠️ *This section is for **testing purposes only**  while I'm working on my future blogs. The posts below are automatically fetched from **The Hacker News RSS Feed** and remain their own copyrighted content.* 
 <!-- BLOG-POST-LIST:START -->
 - [Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT](https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html)
 - [North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware](https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html)
