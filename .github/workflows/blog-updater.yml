@@ -17,7 +17,7 @@ jobs:
       - name: Pull in latest blog posts from Medium
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@freecodecamp"  # replace with your Medium handle later
+          feed_list: "https://feeds.feedburner.com/TheHackersNews"  # replace with your Medium handle later
           max_post_count: 5
           committer_username: "GhostDefender"
           committer_email: "mexavierace@gmail.com"
