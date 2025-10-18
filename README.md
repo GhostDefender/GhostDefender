@@ -1,39 +1,89 @@
-<h1 align="center">Hi 👋, I'm Exavier Ace Munar</h1>
-<h3 align="center">A passionate cybersecurity professional from Philippines </h3>
+<!-- README.md for Exavier Ace Munar | Cybersecurity Professional -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostdefender&label=Profile%20views&color=0e75b6&style=flat" alt="ghostdefender" /> </p>
-
-- 🔭 I’m currently working on **Security+ Certification**
-
-- 🌱 I’m currently learning **Security+ Course**
-
-- 👯 I’m looking to collaborate on **SIEM Lab, SOAR, EDR, Malware Lab**
-
-- 🤝 I’m looking for help with **Malware Research, Blogs**
-
-- 👨‍💻 All of my projects are available at [Nothing to show here yet](Nothing to show here yet)
-
-- 💬 Ask me about **Cybersecurity stuff**
-
-- 📫 How to reach me **mexavierace@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18EJ8ZfQbiAbpk_r5_n6QgbVMciz5eHcb/view?usp=sharing](https://drive.google.com/file/d/18EJ8ZfQbiAbpk_r5_n6QgbVMciz5eHcb/view?usp=sharing)
-
-- ⚡ Fun fact **I do memes, exercise a lot specially running**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/exavierace.munar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="exavierace.munar" height="30" width="40" /></a>
-<a href="https://medium.com/@mexavierace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mexavierace" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800px" alt="Cybersecurity Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">🛡️ Exavier Ace Munar</h1>
+<h3 align="center">Threat Analyst | Cybersecurity Professional | Malware & Phishing Analyst</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostdefender&show_icons=true&locale=en&layout=compact" alt="ghostdefender" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostdefender&show_icons=true&locale=en" alt="ghostdefender" /></p>
+### 👨‍💻 About Me
+
+> “Defending systems through intelligence, precision, and persistence.”
+
+I'm a **Cybersecurity Professional** with hands-on experience in **malware investigation and phishing analysis.**  
+My work involves analyzing emails, malicious samples, crafting **YARA rules**, and performing both **static and dynamic malware analysis** to strengthen defenses against evolving cyber threats.
+
+🔍 **Key Areas of Focus:**
+- Malware & Phishing Analysis  
+- Threat Intelligence  
+- Forensics Fundamentals  
+- YARA Rule Creation  
+- Log Analysis
+
+---
+
+### 🧠 Technical Skills
+
+| Category | Tools & Skills |
+|-----------|----------------|
+| **Malware Analysis** | Process Hacker, Procmon, CMDWatcher, FileGrab, PEStudio, ProcDot |
+| **Threat Detection** | YARA, VirusTotal, Hybrid Analysis |
+| **Incident Response** | Fiddler, ELK Stack |
+| **Programming** | Python, Bash, PowerShell |
+| **Networking** | TCP/IP, DNS, HTTP/S, Email Header Analysis |
+
+---
+
+### ⚔️ Featured Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YARA%20Rules-blue?style=for-the-badge&logo=virustotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Malware%20Analysis-red?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phishing%20Analysis-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GhostDefender&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostDefender&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDefender&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Current Focus
+- 🧩 Creating advanced **YARA rules** to detect evolving threats  
+- ⚙️ Building automation tools for **malware triage & phishing investigation**  
+- 📈 Expanding skills in **threat intelligence platforms** and **SIEM engineering**
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:meavierace@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/exavier-ace-munar-283183146/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/GhostDefender"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600px" alt="Cybersecurity Banner"/>
+</p>
+
+<p align="center">
+  <i>“Security is not a product, but a process.” – Bruce Schneier</i>
+</p>
