@@ -1,9 +1,5 @@
 <!-- README.md for Exavier Ace Munar | Cybersecurity Professional -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800px" alt="Cybersecurity Banner"/>
-</p>
-
 <h1 align="center">🛡️ Exavier Ace Munar</h1>
 <h3 align="center">Threat Analyst | Cybersecurity Professional | Malware & Phishing Analyst</h3>
 
