@@ -72,7 +72,8 @@ My work involves analyzing emails, malicious samples, crafting **YARA rules**, a
 
 ## 📰 Recent Blogs & Articles
 
-> Automatically updated with my latest posts ✍️
+> Automatically updated with my latest posts ✍️  
+> [View all on Medium](https://medium.com/@ghostdefender)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
