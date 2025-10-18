@@ -59,15 +59,6 @@ My work involves analyzing emails, malicious samples, crafting **YARA rules**, a
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/GhostDefender/Phishing-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostDefender&repo=Phishing-Toolkit&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/GhostDefender/Incident-Response-Playbook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostDefender&repo=Incident-Response-Playbook&theme=tokyonight" />
-  </a>
-</p>
-
 ---
 
 ## 📰 Recent Blogs & Articles
