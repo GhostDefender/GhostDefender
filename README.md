@@ -46,6 +46,45 @@ My work involves analyzing emails, malicious samples, crafting **YARA rules**, a
 
 ---
 
+## 🧩 Featured Repositories
+
+> A selection of my cybersecurity-related works
+
+<p align="center">
+  <a href="https://github.com/GhostDefender/YARA-Rules">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostDefender&repo=YARA-Rules&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/GhostDefender/Malware-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostDefender&repo=Malware-Analyzer&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GhostDefender/Phishing-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostDefender&repo=Phishing-Toolkit&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/GhostDefender/Incident-Response-Playbook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostDefender&repo=Incident-Response-Playbook&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📰 Recent Blogs & Articles
+
+> Automatically updated with my latest posts ✍️
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="https://medium.com/@ghostdefender">
+    <img src="https://img.shields.io/badge/View%20All%20Posts-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
