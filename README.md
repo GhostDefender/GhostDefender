@@ -66,7 +66,6 @@ My work involves analyzing emails, malicious samples, crafting **YARA rules**, a
 > Automatically updated with my latest posts ✍️  
 > [View all on Medium](https://medium.com/@ghostdefender)
 
-> ⚠️ *This section is for **testing purposes only**  while I'm working on my future blogs. The posts below are automatically fetched from **The Hacker News RSS Feed** and remain their own copyrighted content.* 
 <!-- BLOG-POST-LIST:START -->
 - [What I Learned Today in Cybersecurity](https://medium.com/@ghostdefender/what-i-learned-today-in-cybersecurity-fe4f1cb97d82?source=rss-0b75e100fcc2------2)
 <!-- BLOG-POST-LIST:END -->
