@@ -68,11 +68,7 @@ My work involves analyzing emails, malicious samples, crafting **YARA rules**, a
 
 > ⚠️ *This section is for **testing purposes only**  while I'm working on my future blogs. The posts below are automatically fetched from **The Hacker News RSS Feed** and remain their own copyrighted content.* 
 <!-- BLOG-POST-LIST:START -->
-- [Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide](https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html)
-- [New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs](https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html)
-- [Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT](https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html)
-- [North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware](https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html)
-- [Identity Security: Your First and Last Line of Defense](https://thehackernews.com/2025/10/identity-security-your-first-and-last.html)
+- [What I Learned Today in Cybersecurity](https://medium.com/@ghostdefender/what-i-learned-today-in-cybersecurity-fe4f1cb97d82?source=rss-0b75e100fcc2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
